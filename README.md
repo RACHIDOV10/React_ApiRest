@@ -1,7 +1,4 @@
-Compte Client – Application React + API Spring Boot
-
-Ce projet est une petite application complète permettant de gérer des comptes bancaires simples.
-Il est composé de deux parties 
+Compte Client – Application React + API Spring Boot 
 
 Frontend : React + Bootstrap
 
@@ -112,4 +109,8 @@ Bootstrap
 
 
 
-Projet libre d’utilisation dans un cadre académique.
+📌 Auteur
+Nom: Chaibi Rachid  
+Cours : Architecture Microservices : Conception, Déploiement et Orchestration
+Date: Decembre 2025 
+Encadré par: Pr. Mohamed LACHGAR
